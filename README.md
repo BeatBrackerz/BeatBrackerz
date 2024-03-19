@@ -10,7 +10,7 @@
 
 <p align="left">
   <a href="https://github.com/BeatBrackerz">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BeatBrackerz&layout=compact&langs_count=8&theme=algolia&hide_border=true" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=@BeatBrackerz&langs_count=8&theme=algolia&hide_border=true" />
   </a>
 </p>
